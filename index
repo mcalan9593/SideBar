@@ -211,7 +211,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">¿Quiénes somos?</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h3 class="section-subheading text-muted">Nuestra alianza surge en el corazón de un joven cautivado por Dios, al mirar la imperiosa necesidad de atender las problemáticas que tenía la juventud, de la misma manera que actualmente tenemos tentaciones y tribulaciones</h3>
           </div>
         </div>
         <div class="row">
@@ -223,11 +223,12 @@
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>2009-2011</h4>
-                    <h4 class="subheading">Our Humble Beginnings</h4>
+                    <h4>1957-1958</h4>
+                    <h4 class="subheading">Donde todo empezó</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                    <p class="text-muted">La alianza inicia con sus actividades.<br />Es presentada oficialmente por el hermano Nicolás Estrada en el templo de Portales durante la celebración de un congreso anual.
+                      <br />El hno. Alfredo Bernal, primer presidente de la alianza Josué y Caleb.</p>
                   </div>
                 </div>
               </li>
@@ -237,11 +238,11 @@
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>March 2011</h4>
-                    <h4 class="subheading">An Agency is Born</h4>
+                    <h4>1963-1965</h4>
+                    <h4 class="subheading">Nuestras etapas</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                    <p class="text-muted">Nuestro líder y querido hermano Dimas Moctezuma.<br/>El objetivo principal era que cada joven alcanzara una vida espiritual plena en Cristo, la juventud de esta época fue caracterizada por su gran esfuerzo, por arrebatar bendiciones, además buscaban progresar en todos los aspectos de su vida; nuestra hermana Catalina Frías Rojas estuvo al frente, y ella expresa con mucho gozo: “la alianza creció en membresía y espiritualmente, siendo la base de este progreso, la oración”.</p>
                   </div>
                 </div>
               </li>
@@ -251,11 +252,11 @@
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>December 2012</h4>
-                    <h4 class="subheading">Transition to Full Service</h4>
+                    <h4>1965-1968</h4>
+                    <h4 class="subheading">Nuestro logo</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                    <p class="text-muted">El logotipo surge debido a que se convocó a la juventud a un concurso, el Hno. Joel Frías realizó el boceto de las dos manos entrelazadas, el cual ganó para la gloria de Dios; este ha tenido algunas modificaciones, pero la esencia es la misma.</p>
                   </div>
                 </div>
               </li>
@@ -265,19 +266,19 @@
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>July 2014</h4>
-                    <h4 class="subheading">Phase Two Expansion</h4>
+                    <h4>1965-Actualidad</h4>
+                    <h4 class="subheading">Presidentes</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                    <p class="text-muted">El tiempo no nos alcanzaría para describir cada una de las etapas de la alianza, pero con mucho amor, cariño y respeto recordamos a aquellos que se pusieron en la brecha por la juventud: Hna. Dolores Hernández Valle, Hno. Abraham Ramos, Hno. Isaías López, Hno. Ángel Estrada, Hno. Miguel Ángel Flores, Hno. Crescencio Ramos, Hno. Gerardo Amado, Hna. María de Jesús Maldonado, Hna. Gloria Yáñez, Hno. César Correa, Hna. Noemí Jiménez, Hno. Gersaín Paduano, Hno. Ezequiel Cruz y actualmente nuestro Hno. Marco Mejía Cano.</p>
                   </div>
                 </div>
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <h4>Be Part
-                    <br>Of Our
-                    <br>Story!</h4>
+                  <h4>Se parte
+                    <br>de nuestra
+                    <br>Historia!</h4>
                 </div>
               </li>
             </ul>
@@ -292,7 +293,7 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Equipo</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h3 class="section-subheading text-muted">Nuestros actuales colaboradores de la alianza Josué y Caleb</h3>
           </div>
         </div>
         <div class="row">
@@ -371,47 +372,20 @@
         </div>
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
-            <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+            <p class="large text-muted">Deseamos una juventud poderosa en Cristo, nuestras oraciones y apoyo son para ustedes! Dios les bendiga!</p>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- Clients -->
-    <section class="py-5">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-3 col-sm-6">
-            <a href="#">
-              <img class="img-fluid d-block mx-auto" src="img/logos/envato.jpg" alt="">
-            </a>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <a href="#">
-              <img class="img-fluid d-block mx-auto" src="img/logos/designmodo.jpg" alt="">
-            </a>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <a href="#">
-              <img class="img-fluid d-block mx-auto" src="img/logos/themeforest.jpg" alt="">
-            </a>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <a href="#">
-              <img class="img-fluid d-block mx-auto" src="img/logos/creative-market.jpg" alt="">
-            </a>
-          </div>
-        </div>
-      </div>
-    </section>
-
+    
     <!-- Contact -->
     <section id="contact">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Contáctanos</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+            <h3 class="section-subheading text-muted">A continuación te informamos acerca de nuestras iglesias de la alianza Josué y Caleb.</h3>
           </div>
         </div>
         <div class="row">
@@ -455,7 +429,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <span class="copyright">Copyright &copy; Your Website 2018</span>
+            <span class="copyright">Síguenos en nuestras redes sociales</span>
           </div>
           <div class="col-md-4">
             <ul class="list-inline social-buttons">
@@ -471,21 +445,12 @@
               </li>
               <li class="list-inline-item">
                 <a href="#">
-                  <i class="fa fa-linkedin"></i>
+                  <i class="fa fa-instagram"></i>
                 </a>
               </li>
             </ul>
           </div>
-          <div class="col-md-4">
-            <ul class="list-inline quicklinks">
-              <li class="list-inline-item">
-                <a href="#">Privacy Policy</a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">Terms of Use</a>
-              </li>
-            </ul>
-          </div>
+          
         </div>
       </div>
     </footer>
